@@ -4,7 +4,7 @@ email: agrawalvinayak36@gmail.com
 url: https://sheetalwirepro.github.io
 description: "manufactacturer of wire products in raipur."
 keywords: "sheetal wire products, ganesh industries."
-skills: "Web Developer - Graphic Artist - User Experience Designer"
+skills: "Barbed Wire - Chain Link - Wire Nails - GI Wire - HB Wire"
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -52,12 +52,12 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Sheetal wire products, near Poha Mill, Industrial Area
+  - line: Sheetal wire products, near Agrawal Poha Mill, Industrial Area
   - line: Rawabhata, Raipur (C.G.)
-  - line: pincode- 492
+  - line: pincode- 492003
 
 # Credits content
-credits: 'Site is made by Ms. Vaibhavi Agrawal. <a href="http://avaibhavi1234.github.io">click here to see more details</a>.'
+credits: 'Site is made by Ms. Vaibhavi Agrawal. <a href="http://avaibhavi1234.github.io"> Click here to see more details</a>.'
 
 # Build settings
 markdown: kramdown
